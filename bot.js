@@ -39,7 +39,7 @@ client.on('ready', () => {
   }).then(invite =>
    msg.author.sendMessage(`
          <@${msg.author.id}> 
-         **- رابــط لسيـرفر , Stars.. :leaves: **
+         **- رابــط لسيـرفر , United.. :leaves: **
          **- [ ${invite.url} ]**
          **- عـدد الاستخدامات , 5 **
          `)
